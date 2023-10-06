@@ -1,0 +1,12 @@
+# Editor specific
+.vscode/settings.json
+
+# Cache
+**/__pycache__/
+
+# Test folders and files
+**/*.test.py
+**/*.test.sh
+
+# Special files
+src/database/config.json
